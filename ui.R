@@ -3,7 +3,7 @@ library(shiny)
 # Define UI for application that calculates salary increases using amounts and percentage
 shinyUI(fluidPage(
   
-  titlePanel(h1(strong("Calculate your new salary"), align='center')),
+  titlePanel(h1(strong("Salary Calculator"), align='center')),
   
   hr(),
   
